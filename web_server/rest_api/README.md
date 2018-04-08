@@ -1,6 +1,6 @@
 # frontend
 
-> front vue.js
+> frontend
 
 ## Build Setup
 
